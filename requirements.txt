@@ -1,0 +1,4 @@
+paddlepaddle
+paddleocr
+pandas
+opencv-python
